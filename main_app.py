@@ -1,3 +1,8 @@
+'''Front End Team
+Zanelle Botha
+Lourens van der Merwe
+'''
+
 import streamlit as st
 
 def login():
@@ -28,10 +33,6 @@ def main_page():
 
     # if st.button("Submit"):
     #     st.success("Form Submitted!")
-
-    st.button("Upload Surgery List")
-    st.button("Activate Surgeries")
-    st.button("Settings")
 
 def main():
     # Takes back to login page
